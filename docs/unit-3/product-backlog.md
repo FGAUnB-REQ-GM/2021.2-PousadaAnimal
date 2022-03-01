@@ -36,7 +36,7 @@ Serviços promovidos pelo sistema para cumprir com as necessidades do usuário. 
 
 ## Backlog do Produto
 
-### Legenda:
+### Legenda
 * Features e Histórias de usuário em <span style="color:blue">azul</span> são parte do [MPV](canvas-mvp.md).
 * Features e Histórias de usuário em <span style="color:green">verde</span> são requisitos que desenvolveremos após o MVP estiver concluído.
 
