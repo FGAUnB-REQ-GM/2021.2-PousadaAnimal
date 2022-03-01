@@ -3,9 +3,7 @@
 ## Histórico de revisão
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 18/02/2022 | [Luís Lins](https://github.com/luisgaboardi), [Ana Júlia](https://github.com/aluzianobriceno) | Adiciona novo Backlog do Produto | 1.0 |
-| 22/02/2022 | [Ana Júlia](https://github.com/aluzianobriceno) | Adiciona Personas | 1.1 |
-| 22/02/2022 | [Lais Portela](https://github.com/laispa) | Mudança backlog imagem | 1.2 |
+| 01/03/2022 | [Luís Lins](https://github.com/luisgaboardi), [Kathlyn Lara](https://github.com/klmurussi) | Adiciona novo Backlog do Produto | 1.0 |
 
 ## Introdução
 O Backlog do Produto faz parte da metodologia Scrum, onde é colocado todas os requisitos necessarios para o desenvolvimento do projeto. Para a organização do backlog foi utilizado a estrutura de organização de requisitos do SAFe, que é divida em quatro partes: Temas de investimento, épicos, features e histórias de usuário.
@@ -38,8 +36,12 @@ Serviços promovidos pelo sistema para cumprir com as necessidades do usuário. 
 
 ## Backlog do Produto
 
-![Product Backlog - Imagem 1](../images/product-backlog-v2-1.png)
-![Product Backlog - Imagem 2](../images/product-backlog-v2-2.png)
+### Legenda:
+* Features e Histórias de usuário em <span style="color:blue">azul</span> são parte do [MPV](canvas-mvp.md).
+* Features e Histórias de usuário em <span style="color:green">verde</span> são requisitos que desenvolveremos após o MVP estiver concluído.
+
+![Product Backlog - Imagem 1](../images/product-backlog-v3-1.png)
+![Product Backlog - Imagem 2](../images/product-backlog-v3-2.png)
 
 # Referências Bibliográficas
 1. MARSICANO, George. Requisitos de Software: Identificando Histórias de Usuário. Brasília. 2021. Apresentação em PowerPoint. 64 slides, color, Material de aula do curso de Engenharia de Software da FGA/UNB. Disponível em: https://aprender3.unb.br/pluginfile.php/1624530/mod_resource/content/0/REQ_Aula%20-%20Identificando%20Hist%C3%B3rias%20de%20Usuarios.pdf. Acesso em: 18 fev 2022.
