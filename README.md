@@ -17,9 +17,9 @@
   ![GitHub contributors](https://img.shields.io/github/contributors/FGAUnB-REQ-GM/2021.2-PousadaAnimal?color=ff69b4)
 
 ## Sobre o Projeto
-   Este repositório é destinado ao projeto da matéria de **Requisitos de Software** da Universidade de Brasília ministrada pelo professor **George Marsicano Corrêa**. Nosso objetivo é criar um software utilizando os conceitos, técnicas e ferramentas ensinadas ao longo do semestre.
+Este repositório é destinado ao projeto da matéria de **Requisitos de Software** da Universidade de Brasília ministrada pelo professor **George Marsicano Corrêa**. Nosso objetivo é criar um software utilizando os conceitos, técnicas e ferramentas ensinadas ao longo do semestre.
    
-   Documentação consta na [Wiki do repositório](https://fgaunb-req-gm.github.io/2021.2-PousadaAnimal/).
+Documentação consta na [Wiki do repositório](https://fgaunb-req-gm.github.io/2021.2-PousadaAnimal/).
    
 
 ## Equipe :technologist:
@@ -30,3 +30,30 @@
 |<img src="https://avatars.githubusercontent.com/u/52364259?v=4" width="100">| Kathlyn Lara | [klmurussi](https://github.com/klmurussi) |
 |<img src="https://avatars.githubusercontent.com/u/54222696?v=4" width="100">| Laís Portela  | [laispa](https://github.com/laispa) |
 |<img src="https://avatars.githubusercontent.com/u/45673358?v=4" width="100">| Luís Guilherme | [luisgaboardi](https://github.com/luisgaboardi) |
+
+## Execução da Documentação Localmente
+
+### Requisitos
+* Python versão *3.8* ou superior
+* Gerenciador de pacotes Python *pip*
+
+### Instruções
+1. No diretório base do repositório, instale as depedências do projeto constadas no arquivo _requirements.txt_ com o seguinte comando em um terminal:
+```
+python3 -m pip install -r requirements.txt
+```
+
+2. "Suba" o servidor para a rede local do seu computador com o comando:
+```
+mkdocs serve
+```
+
+3. No terminal, você verá algo tal como:
+```
+INFO     -  Building documentation...
+INFO     -  Cleaning site directory
+INFO     -  Documentation built in 0.36 seconds
+INFO     -  [13:19:01] Serving on http://127.0.0.1:8000/
+```
+
+4. Acesse o link gerado no passo anterior em um navegador
