@@ -38,11 +38,12 @@ nav:
     - Gerenciamento do Projeto: "unit-3/project-management.md"
     - Engenharia de Requisitos: "unit-3/requirements-engineering.md"
     - Metodologia: "unit-3/methodology.md"
+    - PBB: "unit-3/pbb.md"
   - Unidade 4 - MVP 1:
     - Visão do Produto: "unit-4/product-vision.md"
     - Gerenciamento do Projeto: "unit-4/project-management.md"
     - Backlog do Produto: "unit-4/product-backlog.md"
-    - PBB: "unit-4/pbb.md"
+    - User Story Map: "unit-4/user-story-map.md"
     - Apresentação: "unit-4/presentation.md"
   - Releases:
     - MVP 1: "releases/mvp-1.md"
