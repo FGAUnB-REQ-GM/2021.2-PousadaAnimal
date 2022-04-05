@@ -9,7 +9,7 @@
 
 | Papel         | Atribuições            | Responsáveis      |
 |:-:|:-:|:-:|
-| Desenvolvedor | Codificar o produto, realizar refatorações, sugerir melhorias e alterações no produto | [Ana Luiza](https://github.com/aluzianobriceno), [Kathlyn Lara](https://github.com/klmurussi), [Lais Portela](https://github.com/laispa), [Luís Guilherme](https://github.com/luisgaboardi) |
+| Desenvolvedor | Codificar o produto, realizar refatorações, sugerir melhorias e alterações no produto | [Ana Julia](https://github.com/aluzianobriceno), [Kathlyn Lara](https://github.com/klmurussi), [Lais Portela](https://github.com/laispa), [Luís Guilherme](https://github.com/luisgaboardi) |
 | Dono do Produto | Atualizar o escopo do produto, avaliar as atividades desenvolvidas ao longo da sprint, definir os critérios de aceitação das histórias de usuário, avaliar o andamento do projeto | [Lais Portela](https://github.com/laispa) |
 | DevOps | Promover a padronização de desenvolvimento e a estabilidade do produto, garantir que o software é um artefato entregável, organizar o Github, o ZenHub, fazer o deploy da solução | [Luís Guilherme](https://github.com/luisgaboardi) |
 | Mestre do Scrum | Orientar a equipe no desenvolvimento do projeto, garantindo que os membros sigam os valores e práticas da metodologia escolhida, controlar o nível de trabalho das sprints de acordo com o ritmo do time. Criar as issues, planejar as sprints junto da equipe, fazer as releases | [Luís Guilherme](https://github.com/luisgaboardi) |
