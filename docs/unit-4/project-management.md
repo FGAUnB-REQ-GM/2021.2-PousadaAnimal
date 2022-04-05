@@ -25,12 +25,12 @@
 | OK | Sprint 5 | Melhorias do backlog do produto, levantamento do MVP, planejamento do Projeto, entrega da Unidade 2 | 21/02/2022 | 27/02/2022 |
 | OK | Sprint 6 | Inicio do desenvolvimento, página inicial | 28/02/2022 | 06/03/2022 |
 | OK | Sprint 7 | [FEAT01] - US01 | 07/03/2022 | 13/03/2022 |
-| OK | Sprint 8 | [FEAT03] - US07, US08 | 14/03/2022 | 20/03/2022 |
+| OK | Sprint 8 | [FEAT03] - US07 | 14/03/2022 | 20/03/2022 |
 | OK | Sprint 9 | [FEAT04] - US09 | 21/03/2022 | 27/03/2022 |
 | OK | Sprint 10 | [FEAT05] - US12 | 26/03/2022 | 01/04/2022 |
-| -  | Sprint 11 | [FEAT05] - US13, US14 (Entrega do [MVP 1](../releases/mvp-1.md))| 02/04/2022 | 08/04/2022 |
-| -  | Sprint 12 | [FEAT06] - US15, US16 | 09/04/2022 | 15/04/2022 |
-| -  | Sprint 13 | [FEAT07] - US19, [FEAT08] - US21 | 16/04/2022 | 22/04/2022 |
+| -  | Sprint 11 | [FEAT05] - US13 (Entrega do [MVP 1](../releases/mvp-1.md))| 02/04/2022 | 08/04/2022 |
+| -  | Sprint 12 | [FEAT05] US14, [FEAT06] - US15, US16 | 09/04/2022 | 15/04/2022 |
+| -  | Sprint 13 | [FEAT07] - US18, US19, [FEAT08] - US21 | 16/04/2022 | 22/04/2022 |
 | -  | Sprint 14 | Documentação da entrega final da disciplina (Entrega do [MVP 2](../releases/mvp-2.md)) | 23/04/2022 | 29/04/2022 |
 
 ## Matriz de Comunicação
