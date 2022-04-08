@@ -5,6 +5,7 @@
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 01/03/2022 | [Luís Lins](https://github.com/luisgaboardi), [Kathlyn Lara](https://github.com/klmurussi) | Adiciona seção explanando o que será entregue em cada release | 1.0 |
 | 06/04/2022 | [Luís Lins](https://github.com/luisgaboardi) | Atualiza histórias do MVP1 e MVP2 | 1.1 |
+| 08/04/2022 | [Luís Lins](https://github.com/luisgaboardi) | Atualiza imagem do product backlog | 1.2 |
 
 ## Introdução
 O Backlog do Produto faz parte da metodologia Scrum, onde é colocado todas os requisitos necessarios para o desenvolvimento do projeto. Para a organização do backlog foi utilizado a estrutura de organização de requisitos do SAFe, que é divida em quatro partes: Temas de investimento, épicos, features e histórias de usuário.
