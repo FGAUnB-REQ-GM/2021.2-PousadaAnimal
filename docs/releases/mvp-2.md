@@ -1,1 +1,0 @@
-# Mínimo Produto Viável - Entrega Final

@@ -38,8 +38,8 @@ Serviços promovidos pelo sistema para cumprir com as necessidades do usuário. 
 ## Backlog do Produto
 
 ### Legenda
-* Features e Histórias de usuário em <span style="color:blue">azul</span> são parte do [MVP 1](../releases/mvp-1.md).
-* Features e Histórias de usuário em <span style="color:orange">laranja</span> são parte do [MVP 2](../releases/mvp-2.md).
+* Features e Histórias de usuário em <span style="color:blue">azul</span> são parte do MVP 1.
+* Features e Histórias de usuário em <span style="color:orange">laranja</span> são parte do MVP 2.
 * Features e Histórias de usuário em <span style="color:green">verde</span> são requisitos que não serão desenvolvidos na disciplina.
 
 ![Product Backlog - Imagem 1](../images/product-backlog-v4-1.png)
