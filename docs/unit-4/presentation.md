@@ -11,6 +11,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/82DU5d-sSgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Link para o projeto: [Pousada Animal](https://grupo-pets-pousada-animal.web.app/auth/login)
+
 ## Lições Aprendidas
 * Aprofundamento de conhecimento em tecnologias frontend
 * Apenas realizar merges com a dev através de Pull Requests

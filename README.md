@@ -20,6 +20,8 @@
 Este repositório é destinado ao projeto da matéria de **Requisitos de Software** da Universidade de Brasília ministrada pelo professor **George Marsicano Corrêa**. Nosso objetivo é criar um software utilizando os conceitos, técnicas e ferramentas ensinadas ao longo do semestre.
    
 Documentação consta na [Wiki do repositório](https://fgaunb-req-gm.github.io/2021.2-PousadaAnimal/).
+
+Link para o projeto: [Pousada Animal](https://grupo-pets-pousada-animal.web.app/auth/login)
    
 
 ## Equipe :technologist:
