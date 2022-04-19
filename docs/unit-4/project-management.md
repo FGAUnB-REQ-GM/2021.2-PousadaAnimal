@@ -5,6 +5,7 @@
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 01/04/2022 | [Luís Lins](https://github.com/luisgaboardi) | Cria documento para entrega da unidade, ajustando planejamento de iterações | 1.0 |
 | 08/04/2022 | [Luís Lins](https://github.com/luisgaboardi) | Atualiza planejamento de iterações | 1.1 |
+| 19/04/2022 | [Luís Lins](https://github.com/luisgaboardi) | Registra atraso no planejamento de iterações | 1.2 |
 
 ## Organização do Projeto
 
@@ -30,8 +31,8 @@
 | OK | Sprint 9 | [FEAT04] - US10 | 21/03/2022 | 27/03/2022 |
 | OK | Sprint 10 | [FEAT04] - US12 | 26/03/2022 | 01/04/2022 |
 | OK | Sprint 11 | [FEAT05] - US15, US18 (Entrega do [MVP 1]()| 02/04/2022 | 08/04/2022 |
-| -  | Sprint 12 | [FEAT06] US21, [FEAT07] - US25 | 09/04/2022 | 15/04/2022 |
-| -  | Sprint 13 | [FEAT05] - US17, US19 | 16/04/2022 | 22/04/2022 |
+| ATRASADO | Sprint 12 | [FEAT06] US21, [FEAT07] - US25 | 09/04/2022 | 15/04/2022 |
+| -  | Sprint 13 | [FEAT05] - US16, US17, US19 | 16/04/2022 | 22/04/2022 |
 | -  | Sprint 14 | [FEAT06] - US20, [FEAT07] - US20, (Entrega do [MVP 2]()) | 23/04/2022 | 29/04/2022 |
 
 ## Matriz de Comunicação
