@@ -8,7 +8,7 @@
 | 14/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Correção do endereço das imagens | 2.0 |
 | 17/02/2021 | [Luís Lins](https://github.com/luisgaboardi) | Uso de imagens em português e remove comentários do professor | 2.1 |
 | 17/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Padrão CamelCase | 2.2 |
-| 18/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Padrão ABNT nas referências | 2.3 |
+| 18/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Padrão ABNT nas referências| 2.3 |
 
 ## Metodologia
 Em relação às **questões técnicas**, o sistema a ser desenvolvido é pequeno, envolvendo poucas funcionalidades e as que existem não são complexas. Funcionará como um sistema de registro e controle de clientes, ademais como um website de divulgação, que estará sujeito a controle externo por parte dos contratantes e tem vida útil prevista de menos de 1 mês, já que não há cliente e nem interesse em manter a manutenção do produto.
