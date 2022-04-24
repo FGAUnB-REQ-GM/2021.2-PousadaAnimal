@@ -15,23 +15,33 @@ extra_css:
 
 nav:
   - Home: "index.md"
-  - Visão do Produto: "unit-4/product-vision.md" "version-finale/product-vision.md"
-  - Engenharia de Requisitos: "unit-3/requirements-engineering.md" "version-finale/requirements-engineering.md"
-  - Lista de Requisitos: "unit-2/requirements-list.md" "version-finale/requirements-list.md"
-  - Backlog do Produto: "unit-4/product-backlog.md" "version-finale/product-backlog.md"
-  - Rich Picture: "unit-2/rich-picture.md" "version-finale/rich-picture.md"
-  - Identidade Visual: "unit-1/visual-identity.md" "version-finale/visual-identity.md"
-  - Metodologia: "unit-3/methodology.md" "version-finale/methodology.md"
-  - Gerenciamento do Projeto: "unit-4/project-management.md" "version-finale/project-management.md"
-  - Canvas MVP: "unit-3/canvas-mvp.md" "version-finale/canvas-mvp.md"
-  - PBB: "unit-3/pbb.md"
-  - User Story Map: "unit-4/user-story-map.md"
-  - Casos de Uso:
-    - Especificação dos casos MVP2: "version-finale/use-case-client-especification.md"
-    - Diagrama de caso de uso: "version-finale/use-case-uml.md"
-  - Apresentação: 
-    - Apresentação Unidade 1: "version-finale/unit-1-presentation.md"
-    - Apresentação Unidade 2: "version-finale/unit-2-presentation.md"
-    - Apresentação Unidade 4: "version-finale/unit-4-presentation.md"
-
-
+  - Unidade 1:  
+    - Visão do Produto: "unit-1/product-vision.md"
+    - Engenharia de Requisitos: "unit-1/requirements-engineering.md"
+    - Lista de Requisitos: "unit-1/requirements-list.md"
+    - Backlog do Produto: "unit-1/product-backlog.md"
+    - Rich Picture: "unit-1/rich-picture.md"
+    - Identidade Visual: "unit-1/visual-identity.md"
+    - Metodologia: "unit-1/methodology.md"
+    - Apresentação: "unit-1/presentation.md"
+  - Unidade 2:
+    - Visão do Produto: "unit-2/product-vision.md"
+    - Gerenciamento do Projeto: "unit-2/project-management.md"
+    - Lista de Requisitos: "unit-2/requirements-list.md"
+    - Backlog do Produto: "unit-2/product-backlog.md"
+    - Rich Picture: "unit-2/rich-picture.md"
+    - Canvas MVP: "unit-2/canvas-mvp.md"
+    - Apresentação: "unit-2/presentation.md"
+  - Unidade 3:
+    - Backlog do Produto: "unit-3/product-backlog.md"
+    - Canvas MVP: "unit-3/canvas-mvp.md"
+    - Gerenciamento do Projeto: "unit-3/project-management.md"
+    - Engenharia de Requisitos: "unit-3/requirements-engineering.md"
+    - Metodologia: "unit-3/methodology.md"
+    - PBB: "unit-3/pbb.md"
+  - Unidade 4 - MVP 1:
+    - Visão do Produto: "unit-4/product-vision.md"
+    - Gerenciamento do Projeto: "unit-4/project-management.md"
+    - Backlog do Produto: "unit-4/product-backlog.md"
+    - User Story Map: "unit-4/user-story-map.md"
+    - Apresentação: "unit-4/presentation.md"
