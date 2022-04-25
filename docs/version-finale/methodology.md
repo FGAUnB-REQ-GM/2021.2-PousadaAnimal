@@ -4,11 +4,15 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 02/02/2022 | [Luís Lins](https://github.com/luisgaboardi) | Adiciona primeira versão da metodologia da equipe | 1.0    |
-| 14/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Correção do endereço das imagens | 2.0 |
-| 17/02/2021 | [Luís Lins](https://github.com/luisgaboardi) | Uso de imagens em português e remove comentários do professor | 2.1 |
-| 17/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Padrão CamelCase | 2.2 |
-| 18/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Padrão ABNT nas referências| 2.3 |
+| 02/02/2022 | [Luís Lins](https://github.com/luisgaboardi) | Adiciona primeira versão da metodologia da equipe, unidade 1 | 1.0    |
+| 14/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Correção do endereço das imagens | 1.1 |
+| 17/02/2021 | [Luís Lins](https://github.com/luisgaboardi) | Uso de imagens em português e remove comentários do professor | 1.2 |
+| 17/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Padrão CamelCase | 1.3 |
+| 18/02/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Padrão ABNT nas referências | 1.4 |
+| 03/02/2022 | [Luís Lins](https://github.com/luisgaboardi) | Adiciona nova versão da metodologia da equipe, unidade 3 | 2.0 |
+| 17/03/2022 | [Luís Lins](https://github.com/luisgaboardi) | Atualiza como a equipe lida com o Dono do Produto | 2.1 |
+| 24/04/2022 | [Laís Portela](https://github.com/laispa) | Versão final do documento | 3.0 |
+
 
 ## Metodologia
 Em relação às **questões técnicas**, o sistema a ser desenvolvido é pequeno, envolvendo poucas funcionalidades e as que existem não são complexas. Funcionará como um sistema de registro e controle de clientes, ademais como um website de divulgação, que estará sujeito a controle externo por parte dos contratantes e tem vida útil prevista de menos de 1 mês, já que não há cliente e nem interesse em manter a manutenção do produto.
@@ -27,7 +31,7 @@ Diante das reflexões acima, a equipe decidiu utilizar uma **abordagem metodoló
 
 <center>Imagem de [Witix](https://www.witix.com.br/blog-postagens/9/metodologia-scrum-tudo-o-que-voce-precisa-para-nao-atrasar-seus-projetos)</center>
 
-Do Scrum, realizaremos as Dailys, as Sprints, a elaboração do Product Backlog, assim como a cada Sprint, uma Sprint Review e uma Sprint Planning para verificar o andamento do projeto e definir as prioridades da equipe. Essas escolhas se basearam em uma experiência prévia da equipe, que valoriza o encontro diário, o desenvolvimento baseado em Sprints e o fato de que apesar de termos um planejamento geral, podermos definir quais atividades serão desenvolvidas na Sprint. Além disso, não usaremos os papéis do Scrum ao pé da letra, principalmente pelo fato de sermos somente 4 pessoas. A proposta é que ao trabalharmos em duplas (como será explicado no ponto de Extreme Programming), que uma dupla seja o Proprietário do Produto da outra dupla, avaliando se o resultado daquela Sprint está condizente com os requisitos levantados. Seremos todos membros da Equipe de Desenvolvimento e alternaremos a cada Sprint quem será o Mestre do Scrum.
+Do Scrum, realizaremos as Dailys, as Sprints, a elaboração do Product Backlog, assim como a cada Sprint, uma Sprint Review e uma Sprint Planning para verificar o andamento do projeto e definir as prioridades da equipe. Essas escolhas se basearam em uma experiência prévia da equipe, que valoriza o encontro diário, o desenvolvimento baseado em Sprints e o fato de que apesar de termos um planejamento geral, podermos definir quais atividades serão desenvolvidas na Sprint. Além disso, não usaremos os papéis do Scrum ao pé da letra, principalmente pelo fato de sermos somente 4 pessoas. A proposta é que ao trabalharmos em duplas (como será explicado no ponto de Extreme Programming), que uma dupla avalie se o resultado daquela Sprint está condizente com os requisitos levantados e critérios de aceitação, com a voz final sendo do Dono do Produto, o qual será alternado ao longo do projeto. Seremos todos membros da Equipe de Desenvolvimento e somente uma pessoa será o Mestre do Scrum ao longo do projeto.
 
 ### Desenvolvimento Ágil
 
@@ -35,10 +39,10 @@ Do Scrum, realizaremos as Dailys, as Sprints, a elaboração do Product Backlog,
   <img src="../../images/agile-development.png" alt="Desenvolvimento Ágil" width="500" >
 </div>
 
-Do Desenvolvimento Ágil, utilizaremos o conceito de MVP (Mínimo Produto Viável) e as Histórias de Usuário, para auxiliar na definição dos requisitos do produto. Não só por conta das exigências da disciplina, mas a equipe acredita que o foco em desenvolver um MVP garante um melhor andamento para o projeto e que o uso de Histórias de Usuário nos ajuda a não desenvolver funcionalidades que não são necessárias. Dessa forma, os dois conceitos se complementam. Além disso, faremos uso de um quadro Kanban para controlar o que ainda precisa ser feito, o que ainda precisa ser revisado, o que está em desenvolvimento na Sprint atual e, por fim, o que já foi concluído. Acreditamos que a visualização e acompanhamento do quadro por conta da equipe nos dará mais informações acerca do andamento do projeto, de forma que a equipe poderá analisar de forma mais clara se o ritmo de trabalho atual satisfará as exigências da disciplina.
+Do Desenvolvimento Ágil, utilizaremos o conceito de Mínimo Produto Viável (MVP) e as Histórias de Usuário, para auxiliar na definição dos requisitos do produto. Não só por conta das exigências da disciplina, mas a equipe acredita que o foco em desenvolver um MVP garante um melhor andamento para o projeto e que o uso de Histórias de Usuário nos ajuda a não desenvolver funcionalidades que não são necessárias. Dessa forma, os dois conceitos se complementam. Além disso, faremos uso de um quadro Kanban, por meio do ZenHub, para controlar o que ainda precisa ser feito, o que ainda precisa ser revisado, o que está em desenvolvimento na Sprint atual e, por fim, o que já foi concluído. Acreditamos que a visualização e acompanhamento do quadro por conta da equipe nos dará mais informações acerca do andamento do projeto, de forma que a equipe poderá analisar de forma mais clara se o ritmo de trabalho atual satisfará as exigências da disciplina.
 
 ### Extreme Programming
-Do Extreme Programming, a equipe realizará a abordagem de programação em pares, já que a nossa equipe possui 4 pessoas. Acreditamos que isso vai promover maior produtividade e facilidade de acompanhamento.
+Do Extreme Programming, a equipe realizará a abordagem de programação em pares, visto que a nossa equipe possui 4 pessoas. Para atividades/histórias complexas a dupla trabalhará junta síncronamente, enquanto em atividades mais simples, a dupla pode trabalhar assíncronamente, revisando durante a sprint o que o outro está fazendo.
 
 ## Referências Bibliográficas
 1. ABC EDUCATION SERVICES. **Scrum.org**, 2022. Treinamento para a prática de scrum. Disponível em https://www.scrum.org/. Acesso em 17 fev. 2022.
