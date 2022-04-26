@@ -1,52 +1,55 @@
-# Especificação de caso de Uso <>
+# Especificação de caso de Uso: Informar Status do Pet
 
 ## Histórico de revisão
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 26/04/2022 | [Laís Portela](https://github.com/laispa) | Adicionando formatação do caso de uso | 1.0 |
+| 26/04/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Adicionando caso de uso | 1.1 |
 
-## Breve Descrição
+## 1    Breve Descrição
+US utilizado por funcionários para descreverem o status do animal.
 
-## Fluxo Básico de Eventos 
+## 2    Atores
+2.1	Funcionários da Pousada
 
-## Fluxo Alternativo
+## 3    Condições Prévias
+O funcionário precisa estar logado na sua conta como administrador.
 
-### Área de Funcionalidade 
+## 4    Fluxo Básico de Eventos (FB)
+4.1     O funcionário seleciona a opção “Status do Pet”;
 
-### <A1 - >
+4.2	    O sistema apresenta a lista de pets hospedados (FE01);
 
-### Subfluxo Alternativo
+4.3 	O funcionário seleciona a opção “chat” no pet desejado;
 
-### <A2 - >
+4.4 	O sistema apresenta o chat do funcionário com o dono do pet;
 
-### Subfluxo Alternativo
+4.5 	O funcionário escreve uma mensagem para enviar para o dono do pet;
 
-## Subfluxos 
+4.6 	O funcionário solicita Enviar a mensagem (RN01) (FE02);
 
-### S1 - <>
+4.7 	O sistema informa que a mensagem foi enviada com sucesso;
 
-### S2 - <>
+4.8 	O funcionário seleciona a opção “Sair”.
 
-## Cenários Chaves
+4.9 	O caso de uso é encerrado.
 
-## Condições Prévias
+## 5    Fluxos Alternativos (FA)
+Não se aplica.
 
-<>
+## 6    Fluxo de Exceção (FE)
+### 6.1	FE01 - Nenhum pet hospedado
+No passo 4.2 do FB, caso não haja nenhum animal hospedado no momento, aparecerá o texto “Nenhum pet hospedado no momento”, e o caso de uso é encerrado.
 
-## Condições Posteriores
+### 6.2	FE02 - Mensagem inválida
+No passo 4.6 do FB, caso a mensagem seja inválida, o sistema apresenta a mensagem “texto inválido” e o caso de uso retorna ao passo 4.5 do FB.
 
-## Ponto de Extensão
+## 7    Regras de Negócio (RN)
+### 7.1	RN01 - Validação de mensagem
+No passo 4.6 do FB, para que a mensagem seja considerada válida não pode ser vazia (nenhum texto escrito). 
 
-(são as opções que o caso pode fazer)
-Ex: 
-(devolver produtos)   <--extend--- (efetuar troca)
+## 8    Condições Posteriores
+8.1	Para FB: mensagem enviada para o dono do pet.
 
-    | 
-    |extend 
-    |
-    (ressarcir dinheiro)
-
-Os pontos de extensão seriam então *opção de troca* e *opção de ressarcimento *
-fonte: <https://dtic.tjpr.jus.br/wiki/-/wiki/Governança-TIC/Modelo+de+Caso+de+Uso/pop_up#:~:text=opcional%20do%20sistema.-,Pontos%20de%20Extensão,estendido)%20pelo%20%27apelido%27.>
-
-## Requistos Especiais
+## 9    Pontos de Extensão
+Não se aplica.
