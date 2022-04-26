@@ -27,7 +27,10 @@ nav:
   - PBB: "version-finale/pbb.md"
   - User Story Map: "version-finale/user-story-map.md"
   - Casos de Uso:
-    - Especificação dos casos MVP2: "version-finale/use-case-especification.md"
+    - Especificação dos casos MVP2: 
+      - Pré-agendamento - US17 e US19: "version-finale/use-case-especification.md"
+      - Consultar Status do Animal - US20: 
+      - Informar Status do Animal- US21: 
     - Diagrama de caso de uso: "version-finale/use-case-uml.md"
   - Apresentação: 
     - Apresentação Unidade 1: "version-finale/unit-1-presentation.md"

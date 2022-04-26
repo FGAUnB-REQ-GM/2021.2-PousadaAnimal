@@ -10,7 +10,7 @@
 | 23/02/2022 | [Luís Lins](https://github.com/luisgaboardi) | Cria segunda versão do documento de visão do produto | 2.0 |
 | 23/02/2022 | [Luís Lins](https://github.com/luisgaboardi) | Adiciona as informações atualizadas do produto | 2.1 |
 | 01/04/2022 | [Luís Lins](https://github.com/luisgaboardi) | Cria documento de visão do produto da unidade 4 | 3.0 |
-| 24/04/2022 | [Laís Portela](https://github.com/laispa) | Versão final do documento de visão do produto | 4.0 |
+| 26/04/2022 | [Laís Portela](https://github.com/laispa) | Versão final do documento de visão do produto | 4.0 |
 
 
 ## Declaração do Problema
@@ -29,7 +29,7 @@ O nosso produto, chamado Pousada Animal, é um website administrativo a ser dese
 Os diferenciais da solução são:
 
 - Os clientes podem cadastrar seus pets pelo website e registar informações sobre cuidados específicos que a pousada deve oferecer ao animal.
-- Os clientes podem realizar o agendamento de hospedagem e o seu pagamento por meio da internet.
+- Os clientes podem realizar o agendamento de hospedagem e escolher o seu meio de pagamento pela internet.
 - Os clientes podem acompanhar o seu animal, por texto e mediante as câmeras do estabelecimento (se houverem) pelo website.
 
 |||
@@ -37,7 +37,7 @@ Os diferenciais da solução são:
 | Para | Pousadas para pets que realizam serviços de hotel e cuidado físico e emocional|
 | Que | Não possuem nenhuma forma de atendimento virtual, seja o cadastro de pet, agendamento de hospedagem ou o acompanhamento do animal via o website |
 | Ao contrário | De outros hotéis e pousadas tais como Pet Hotel Jardim Botânico e Cãoforto, que são dois grandes estabelecimentos da área em Brasília |
-| Nosso produto | Permite que o cliente da pousada cadastre o seu pet pelo website, apresentando quaisquer cuidados específicos que o dono julgue necessário. Além disso, permite o agendamento da hospedagem e o seu pagamento de forma totalmente virtual. Por último, o cliente poderá acompanhar a estadia dos seus pets pelo website, inclusive em tempo real por meio de câmeras do estabelecimento (se houverem). |
+| Nosso produto | Permite que o cliente da pousada cadastre o seu pet pelo website, apresentando quaisquer cuidados específicos que o dono julgue necessário. Além disso, permite o agendamento da hospedagem e escolher o pagamento na forma virtual. Por último, o cliente poderá acompanhar a estadia dos seus pets pelo website, inclusive em tempo real por meio de câmeras do estabelecimento (se houverem). |
 
 ## Objetivos do Produto
 
