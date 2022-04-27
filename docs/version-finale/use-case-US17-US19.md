@@ -1,5 +1,5 @@
 # Especificação de caso de Uso <Pré-agendamento>
- 
+
 ## Histórico de revisão
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
