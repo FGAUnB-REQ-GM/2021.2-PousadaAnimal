@@ -6,6 +6,7 @@
 | 24/04/2022 | [Laís Portela](https://github.com/laispa) |Adicionando caso de uso no documento | 1.0 |
 | 26/04/2022 | [Laís Portela](https://github.com/laispa) |Revisão do documento | 1.1 |
 | 26/04/2022 | [Laís Portela](https://github.com/laispa) |Alterações no fluxo básico e em outros.| 1.2 |
+| 26/04/2022 | [Laís Portela](https://github.com/laispa) |Adição de regra de negócio.| 1.3 |
  
 ## 1. Breve Descrição
 Este caso de uso é utilizado pelos clientes para fazer o pré-agendamento do animal, bem como escolher os serviços prestados e meios de pagamento
@@ -23,7 +24,7 @@ Este caso de uso é utilizado pelos clientes para fazer o pré-agendamento do an
  
 4.1. O cliente seleciona a opção "hospedar pet".
 4.2. O cliente seleciona o animal desejado.
-4.3. O cliente digita as datas desejadas.
+4.3. O cliente digita as datas desejadas(RN04).
 4.4. O sistema faz a validação da data (FE01)(FE02)(FE03)(RN01).
 4.5. O sistema mostra o valor da hospedagem (RN01).
 4.6. O sistema digita informações complementares do animal.
@@ -57,14 +58,19 @@ No passo 4.4 do fluxo básico, caso o cliente digite nos campos de entrada ou de
 ### 6.4 FE04 - Cliente não digitou as informações necessárias
 No passo 4.7 do fluxo básico, caso o cliente não digite as informações do "pet", no caso 4.2, e as datas, no passo 4.3, corretamente, o sistema impedirá que o cliente avance para o próximo passo.
  
-## Regra de Negócio (RN)
-### RN01 - Valor do pré-agendamento
+## 7. Regra de Negócio (RN)
+### 7.1 RN01 - Valor do pré-agendamento
 No passo 4.5 do fluxo básico, o valor da hospedagem depende do peso do animal e dias de agendamento, para ser mostrado ao cliente os campos "Pet",passo 4.2, "Entrada" e "Saída", passo 4.3, devem ser preenchidos, sendo que "pet" deve ser selecionado entre as opções de animais cadastrados.
-### RN02 - Validação dos dados
+### 7.2 RN02 - Validação dos dados
 No passo 4.7 do fluxo básico, para que o sistema realize o pré-agendamento, é necessário que o passo 4.2, 4.3 estejam preenchidos corretamente, e que o sistema valide o passo 4.4.
-### RN03 - Campo preenchido
+### 7.3 RN03 - Campo preenchido
 No passo 5.1.3 e 5.2.3 do fluxo alternativo, para que o sistema confirme as informações, elas não devem ser nulas.
-## Pós-condições
+### 7.4 RN04 - Validação das datas
+No passo 4.3 do fluxo alternativo, as datas preenchidas devem seguir os seguintes critérios: 
+- As datas tem que ser posteriores ou igual ao dia atual.
+- As datas devem ser de até um ano depois do dia atual.
+- A data de entrada não pode ser posterior a data de saída.
+## 8. Pós-condições
  Não se aplica.
-## Ponto de Extensão
+## 9. Ponto de Extensão
  O pré-agendamento é o ponto de extensão do caso de uso Cadastrar animal.
