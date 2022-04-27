@@ -116,4 +116,4 @@ Ex:
 Os pontos de extensão seriam então *opção de troca* e *opção de ressarcimento *
 fonte: <https://dtic.tjpr.jus.br/wiki/-/wiki/Governança-TIC/Modelo+de+Caso+de+Uso/pop_up#:~:text=opcional%20do%20sistema.-,Pontos%20de%20Extensão,estendido)%20pelo%20%27apelido%27.>
 
-## Requistos Especiaisv
+## Requistos Especiais
