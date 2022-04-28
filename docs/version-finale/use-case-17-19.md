@@ -17,7 +17,8 @@ Este caso de uso é utilizado pelos clientes para fazer o pré-agendamento do an
 2.2 Funcionário que trabalha no hotel para animais e deseja aprovar agendamentos e definir serviços de forma virtual.
  
 ## 3. Condições Prévias
-3.1 Cliente fez login
+3.1 Cliente fez login.
+
 3.2 Cliente cadastrou pelo menos um animal.
  
 ## 4. Fluxo Básico (FB)
