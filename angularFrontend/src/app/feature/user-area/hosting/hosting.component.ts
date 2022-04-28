@@ -158,7 +158,9 @@ export class HostingComponent implements OnInit {
     this.AlertModalService.showAlertSucess('Agendamento concluído!');
   }
 
+
   redirect() {
     this.router.navigate(['/user-area/home-user']);
   }
+
 }
