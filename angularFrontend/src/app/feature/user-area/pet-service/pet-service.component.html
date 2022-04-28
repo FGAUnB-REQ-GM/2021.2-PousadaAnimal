@@ -10,18 +10,18 @@
         <th>Ação</th>
       </tr>
     </thead>
-    <tbody>
+    <tbody >
       <tr *ngFor="let service of servicesList">
         <td>{{service.name}}</td> <!-- Pegar nome do dono, não o id -->
         <td>{{service.descrition}}</td> <!-- Pegar nome do pet, não o id -->
         <td>R${{service.cost}},00</td>
-        <td>
-          <input type="checkbox" name="{{service.chosen}}" (click)="chooseService(service)">
+        <td [formGroup]="formServiceRegister">
+          <input type="checkbox" name="{{service.chosen}}" formControlName="chosen" (click)="chooseService(service)">
         </td>
       </tr>
     </tbody>
   </table>
-  <button class ="btn btn-custom default" [routerLink]="['/user-area']" (click)="redirect()">
+  <button class ="btn btn-custom default" (click)="save()">
     Salvar
   </button>
   <div class="col-md-12">

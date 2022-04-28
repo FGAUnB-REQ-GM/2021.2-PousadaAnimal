@@ -43,7 +43,7 @@ const routes: Routes = [
         loadChildren: () => import('./payment/payment.module').then(m => m.PaymentModule),
       },
       {
-        path: 'pet-service',
+        path: 'pet-service/:id',
         canLoad: [AuthGuard],
         loadChildren: () => import('./pet-service/pet-service.module').then(m => m.PetServiceModule),
       }
