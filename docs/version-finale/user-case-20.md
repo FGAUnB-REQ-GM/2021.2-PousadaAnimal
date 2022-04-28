@@ -14,18 +14,24 @@ Este caso de uso é utilizado por clientes para consultar o status do seu pet qu
 
 ## 3. Condições Prévias
 3.1 Cliente fez login;
+
 3.2 Cliente já fez o pré-agendamento;
+
 3.3 Cliente já escolheu os serviços;
+
 3.4 Cliente já deixou seu animal na pousada.
 
 ## 4. Fluxo Básico (FB) 
 4.1 O cliente acessa sua página de perfil;
+
 4.2 O cliente encontra informações do seu pet no mural de seu perfil (FE01);
+
 4.3 O caso de uso é encerrado.
 
 ## 5. Fluxo Alternativo (FA)
 ### FA01 - Informações mais específicas 
 5.1 O cliente digita mensagem para a pousada;
+
 5.2 O cliente solicita Enviar a mensagem (RN01) (FE02).
 
 ## 6. Fluxo de Exceção (FE)
