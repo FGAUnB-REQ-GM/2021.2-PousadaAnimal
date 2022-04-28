@@ -81,6 +81,6 @@ export class PetRegisterComponent implements OnInit {
   }
 
   redirect() {
-    this.router.navigate(['/user-area/home']);
+    this.router.navigate(['/user-area/home-user']);
   }
 }
