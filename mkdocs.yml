@@ -28,9 +28,9 @@ nav:
   - User Story Map: "version-finale/user-story-map.md"
   - Casos de Uso:
     - Especificação dos casos MVP2: 
-      - Pré-agendamento - US17 e US19: "version-finale/use-case-17-19.md"
-      - Consultar Status do Animal - US20: "version-finale/user-case-20.md"
-      - Informar Status do Animal- US21: "version-finale/user-case-21.md"
+      - Pré-agendamento: "version-finale/use-case-17-19.md"
+      - Consultar Status do Animal: "version-finale/user-case-20.md"
+      - Informar Status do Animal: "version-finale/user-case-21.md"
     - Diagrama de caso de uso: "version-finale/use-case-uml.md"
   - Apresentação: 
     - Apresentação Unidade 1: "version-finale/unit-1-presentation.md"
