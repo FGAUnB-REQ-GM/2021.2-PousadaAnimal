@@ -23,26 +23,41 @@ Este caso de uso é utilizado pelos clientes para fazer o pré-agendamento do an
 ## 4. Fluxo Básico (FB)
  
 4.1. O cliente seleciona a opção "hospedar pet".
+
 4.2. O cliente seleciona o animal desejado.
+
 4.3. O cliente digita as datas desejadas(RN04).
+
 4.4. O sistema faz a validação da data (FE01)(FE02)(FE03)(RN01).
+
 4.5. O sistema mostra o valor da hospedagem (RN01).
+
 4.6. O sistema digita informações complementares do animal.
+
 4.7. O cliente confirma o pré-agendamento (RN02).
+
 4.8. O sistema verifica se o cliente deseja escolher algum serviço ou definir a forma de pagamento (FA01) (FA02) (FA03).
  
 ## 5. Fluxo Alternativo (FA)
 ### FA01 - Selecionar serviços
 5.1.1. O cliente seleciona "Serviços".
+
 5.1.2. O cliente escolhe quais serviços deseja.
+
 5.1.3. O cliente salva as informações (RN03).
+
 5.1.4. O sistema emite uma mensagem de sucesso.
+
  
 ### FA02 - Selecionar pagamento
 5.2.1. O cliente seleciona "Pagamento".
+
 5.2.2. O cliente escolhe qual será o seu meio de pagamento.
+
 5.2.3. O sistema mostra o valor total.
+
 5.2.3. O cliente salva sua opção (RN03).
+
 5.2.4. O sistema emite uma mensagem de sucesso.
  
 ### FA03 - Sair do pré-agendamento

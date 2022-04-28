@@ -7,7 +7,7 @@
 | 26/04/2022 | [Kathlyn Lara](https://github.com/klmurussi) | Adicionando caso de uso | 1.1 |
 
 ## 1    Breve Descrição
-US utilizado por funcionários para descreverem o status do animal.
+Caso de uso utilizado por funcionários para descreverem o status do animal.
 
 ## 2    Atores
 2.1	Funcionários da Pousada
