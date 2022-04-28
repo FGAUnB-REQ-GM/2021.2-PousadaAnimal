@@ -42,6 +42,11 @@ const routes: Routes = [
         path: 'payment',
         canLoad: [AuthGuard],
         loadChildren: () => import('./payment/payment.module').then(m => m.PaymentModule),
+      },
+      {
+        path: 'pet-service',
+        canLoad: [AuthGuard],
+        loadChildren: () => import('./pet-service/pet-service.module').then(m => m.PetServiceModule),
       }
     ]
   }
@@ -49,7 +54,7 @@ const routes: Routes = [
 
 @NgModule({
 
-  declarations: [UserAreaComponent, PetRegisterComponent, HomeUserComponent, PaymentComponent],
+  declarations: [UserAreaComponent, PetRegisterComponent, HomeUserComponent, PaymentComponent, PetServiceComponent],
   imports: [
     CommonModule,
     RouterModule.forChild(routes),
